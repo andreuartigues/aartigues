@@ -8,10 +8,13 @@ Hello, I'm Andreu! Welcome to my digital space where I share a bit about myself.
 - 🚀 Programming languages: [List of Languages]
 - 💻 Technologies: [List of Technologies]
 - 🔧 Other skills: [Any other relevant skills]
-### Programming Languages
-- 🚀 **Python**
+<div style="display: inline-block; background-color: #4CAF50; color: white; padding: 8px; margin: 4px; border-radius: 5px;">
+  <strong>Python</strong>
+</div>
 
-  <div style="background-color: #FFFF00; padding: 10px; border-radius: 5px;">
+<div style="display: inline-block; background-color: #336699; color: white; padding: 8px; margin: 4px; border-radius: 5px;">
+  <strong>SQL</strong>
+</div>
 ***
 
 ## Projects
