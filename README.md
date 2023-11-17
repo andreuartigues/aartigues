@@ -1,7 +1,7 @@
 # 👋 My Personal README
 
 ## Introduction
-Hello, I'm [Your Name]! Welcome to my digital space where I share a bit about myself.
+Hello, I'm Andreu! Welcome to my digital space where I share a bit about myself.
 
 ## About Me
 I am a [Your Profession/Interests] based in [Your Location]. 🌍 My journey is fueled by a passion for [Your Interests/Hobbies].
