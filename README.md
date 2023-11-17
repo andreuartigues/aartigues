@@ -1,4 +1,4 @@
-# 👋 Jello, I'm Andreu!
+ <p align="center">👋 Hello, I'm Andreu!</p>
 ***
 
 ## About Me
