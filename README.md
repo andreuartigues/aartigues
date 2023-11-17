@@ -1,10 +1,4 @@
-# 👋 My Personal README
-
-***
-
-## Introduction
-
-
+# 👋 Jello, I'm Andreu!
 ***
 
 ## About Me
