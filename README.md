@@ -8,7 +8,10 @@ Hello, I'm Andreu! Welcome to my digital space where I share a bit about myself.
 - 🚀 Programming languages: [List of Languages]
 - 💻 Technologies: [List of Technologies]
 - 🔧 Other skills: [Any other relevant skills]
+### Programming Languages
+- 🚀 **Python**
 
+  <div style="background-color: #FFFF00; padding: 10px; border-radius: 5px;">
 ***
 
 ## Projects
