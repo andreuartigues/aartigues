@@ -3,13 +3,12 @@
 ***
 
 ## Introduction
-Hello, I'm [Your Name]! Welcome to my digital space where I share a bit about myself.
+
 
 ***
 
 ## About Me
-I am a [Your Profession/Interests] based in [Your Location]. 🌍 My journey is fueled by a passion for [Your Interests/Hobbies].
-
+Hello, I'm Andreu! Welcome to my digital space where I share a bit about myself. I am a Big Data student based at IE University. 
 ***
 
 ## Skills
@@ -28,7 +27,7 @@ I am a [Your Profession/Interests] based in [Your Location]. 🌍 My journey is 
 
 ## Contact
 - ✉️ Email: [Your Email]
-- 🔗 LinkedIn: [Your LinkedIn Profile]
+- 🔗 [Linkedin](https://www.linkedin.com/in/andreuartigues/) 
 - 🐦 Twitter: [Your Twitter Handle]
 
 ***
