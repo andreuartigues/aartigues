@@ -1,5 +1,4 @@
-# aartigues
-# My Personal README
+# Andreu Artigues
 
 ## Introduction
 Hello, I'm [Your Name]! This is my personal README file where I share a bit about myself.
