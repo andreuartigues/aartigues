@@ -20,15 +20,12 @@ Hello, I'm Andreu! Welcome to my digital space where I share a bit about myself.
 
 ## Projects
 - **Project 1:** [Brief description]
-- **Project 2:** [Brief description]
-- ...
 
 ***
 
 ## Contact
 - ✉️ Email: [Your Email]
 - 🔗 [Linkedin](https://www.linkedin.com/in/andreuartigues/) 
-- 🐦 Twitter: [Your Twitter Handle]
 
 ***
 
