@@ -12,26 +12,27 @@ Hello, I'm Andreu! Welcome to my digital space where I share a bit about myself.
 
 ## Skills
 
+## Skills
+
 - **Languages:** 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-  ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-  ![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+  ![Java](https://img.shields.io/badge/-Java-orange?logo=java)
 
 - **Web Development:** 
-  ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-  ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-  ![React](https://img.shields.io/badge/React-Intermediate-blueviolet)
-  ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
+  ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)
+  ![React](https://img.shields.io/badge/-React-blueviolet?logo=react)
+  ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
 
 - **Databases:** 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-brightgreen)
-  ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql)
 
 - **Tools:** 
-  ![Git](https://img.shields.io/badge/Git-Expert-red)
-  ![VSCode](https://img.shields.io/badge/VSCode-Expert-blue)
-  ![Docker](https://img.shields.io/badge/Docker-Intermediate-blue)
-
+  ![Git](https://img.shields.io/badge/-Git-red?logo=git)
+  ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visual-studio-code)
+  ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)
 
 ## Projects
 - **Project 1:** [Brief description]
