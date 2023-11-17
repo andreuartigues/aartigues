@@ -1,4 +1,4 @@
- <p align="center">👋 Hello, I'm Andreu!</p>
+# <p align="center">👋 Hello, I'm Andreu!</p>
 
 ## About Me
 Hello, I'm Andreu! Welcome to my digital space where I share a bit about myself. I am a Big Data student based at IE University. 
