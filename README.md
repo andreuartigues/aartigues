@@ -8,14 +8,30 @@ Hello, I'm Andreu! Welcome to my digital space where I share a bit about myself.
 - 🚀 Programming languages: [List of Languages]
 - 💻 Technologies: [List of Technologies]
 - 🔧 Other skills: [Any other relevant skills]
-<div style="display: inline-block; background-color: #4CAF50; color: white; padding: 8px; margin: 4px; border-radius: 5px;">
-  <strong>Python</strong>
-</div>
-
-<div style="display: inline-block; background-color: #336699; color: white; padding: 8px; margin: 4px; border-radius: 5px;">
-  <strong>SQL</strong>
-</div>
 ***
+
+## Skills
+
+- **Languages:** 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+  ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+  ![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+
+- **Web Development:** 
+  ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+  ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+  ![React](https://img.shields.io/badge/React-Intermediate-blueviolet)
+  ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
+
+- **Databases:** 
+  ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-brightgreen)
+  ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue)
+
+- **Tools:** 
+  ![Git](https://img.shields.io/badge/Git-Expert-red)
+  ![VSCode](https://img.shields.io/badge/VSCode-Expert-blue)
+  ![Docker](https://img.shields.io/badge/Docker-Intermediate-blue)
+
 
 ## Projects
 - **Project 1:** [Brief description]
